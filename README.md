@@ -65,8 +65,8 @@ The Question Service is responsible for managing quiz questions.
 | Backend | Java / Spring Boot |
 | Architecture | Microservices |
 | API Style | REST |
-| Database | MySQL / PostgreSQL / H2 |
-| Build Tool | Maven / Gradle |
+| Database | PostgreSQL  |
+| Build Tool | Maven  |
 
 ---
 
@@ -102,14 +102,14 @@ quiz-app/
 ### Prerequisites
 
 - Java 8+ / 11+
-- Maven / Gradle
+- Maven 
 - Database setup (if applicable)
 
 ### Installation & Running
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   git clone https://github.com/shivanand9019/quiz-app.git
    ```
 
 2. **Navigate to Question Service:**
